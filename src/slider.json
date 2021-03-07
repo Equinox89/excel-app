@@ -1,0 +1,4288 @@
+{
+  "merkur": [
+    {
+      "title": "Eye of Horus",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/eye-of-horus.php",
+      "image": {
+        "alt": "Eye of Horus",
+        "path": "/images/gamelogos/merkur/eye-of-horus.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Alles Spitze",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/alles-spitze.php",
+      "image": {
+        "alt": "Alles Spitze",
+        "path": "/images/gamelogos/merkur/alles-spitze.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Blazing Star",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/blazing-star.php",
+      "image": {
+        "alt": "Blazing Star",
+        "path": "/images/gamelogos/merkur/blazing-star.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Double Triple Chance",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/double-triple-chance.php",
+      "image": {
+        "alt": "Double Triple Chance",
+        "path": "/images/gamelogos/merkur/double-triple-chance.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Fruitinator",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/fruitinator.php",
+      "image": {
+        "alt": "Fruitinator",
+        "path": "/images/gamelogos/merkur/fruitinator.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Ghost Slider",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/ghost-slider.php",
+      "image": {
+        "alt": "Ghost Slider",
+        "path": "/images/gamelogos/merkur/ghost-slider.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Gladiator",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/gladiators.php",
+      "image": {
+        "alt": "Gladiator",
+        "path": "/images/gamelogos/merkur/gladiator.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Joker's Cap",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/jokers-cap.php",
+      "image": {
+        "alt": "Joker's Cap",
+        "path": "/images/gamelogos/merkur/jokers-cap.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Magic Mirror Deluxe 2",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/magic-mirror-deluxe-2.php",
+      "image": {
+        "alt": "Magic Mirror Deluxe 2",
+        "path": "/images/gamelogos/merkur/magic-mirror-deluxe-2.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Lucky Pharaoh",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/lucky-pharaoh.php",
+      "image": {
+        "alt": "Lucky Pharaoh",
+        "path": "/images/gamelogos/merkur/lucky-pharaoh.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "221b Baker Street",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/221b-baker-street.php",
+      "image": {
+        "alt": "221b Baker Street",
+        "path": "/images/gamelogos/merkur/221b-baker-street.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "77777",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/77777.php",
+      "image": {
+        "alt": "77777",
+        "path": "/images/gamelogos/merkur/77777.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Amazonia",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/amazonia.php",
+      "image": {
+        "alt": "Amazonia",
+        "path": "/images/gamelogos/merkur/amazonia.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Amulet of the Pharaoh",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/amulet-of-the-pharaoh.php",
+      "image": {
+        "alt": "Amulet of the Pharaoh",
+        "path": "/images/gamelogos/merkur/amulet-of-the-pharaoh.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Big Buck Bunny",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/big-buck-bunny.php",
+      "image": {
+        "alt": "Big Buck Bunny",
+        "path": "/images/gamelogos/merkur/big-buck-bunny.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Boombastic",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/boombastic.php",
+      "image": {
+        "alt": "Boombastic",
+        "path": "/images/gamelogos/merkur/boombastic.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Black Hole",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/black-hole.php",
+      "image": {
+        "alt": "Black Hole",
+        "path": "/images/gamelogos/merkur/black-hole.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Burning Heat",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/burning-heat.php",
+      "image": {
+        "alt": "Burning Heat",
+        "path": "/images/gamelogos/merkur/burning-heat.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Candy & Fruits",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/candy-and-fruits.php",
+      "image": {
+        "alt": "Candy & Fruits",
+        "path": "/images/gamelogos/merkur/candy-and-fruits.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Cannon Thunder",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/cannon-thunder.php",
+      "image": {
+        "alt": "Cannon Thunder",
+        "path": "/images/gamelogos/merkur/cannon-thunder.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Cash Fruits Plus",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/cash-fruits-plus.php",
+      "image": {
+        "alt": "Cash Fruits Plus",
+        "path": "/images/gamelogos/merkur/cash-fruits-plus.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Cashpot's Angel",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/cashpots-angel.php",
+      "image": {
+        "alt": "Cashpot's Angel",
+        "path": "/images/new-slot-reviews/merkur/logo-cashpots-angel.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Centurio",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/centurio.php",
+      "image": {
+        "alt": "Centurio",
+        "path": "/images/gamelogos/merkur/centurio.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Coffe House Mystery",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/coffee-house-mystery.php",
+      "image": {
+        "alt": "Coffe House Mystery",
+        "path": "/images/gamelogos/merkur/coffee-house-mystery.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Crystal Heart",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/crystal-heart.php",
+      "image": {
+        "alt": "Crystal Heart",
+        "path": "/images/gamelogos/merkur/crystal-heart.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Deal or No Deal",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/deal-or-no-deal.php",
+      "image": {
+        "alt": "Deal or No Deal",
+        "path": "/images/gamelogos/merkur/deal-or-no-deal.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Dinosaur Kingdom",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/dinosaur-kingdom.php",
+      "image": {
+        "alt": "Dinosaur Kingdom",
+        "path": "/images/new-slot-reviews/merkur/dinosaur-kingdom.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Doppelbuch",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/doppelbuch.php",
+      "image": {
+        "alt": "Doppelbuch",
+        "path": "/images/new-slot-reviews/merkur/doppelbuch.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Double Frootastic",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/double-frootastic.php",
+      "image": {
+        "alt": "Double Frootastic",
+        "path": "/images/gamelogos/merkur/double-frootastic.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Dragon's Treasure 2",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/dragons-treasure-2.php",
+      "image": {
+        "alt": "Dragon's Treasure 2",
+        "path": "/images/gamelogos/merkur/dragons-treasure-2.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "El Torero",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/el-torero.php",
+      "image": {
+        "alt": "El Torero",
+        "path": "/images/gamelogos/merkur/el-torero.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Energy 5 Reels",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/energy-5-reels.php",
+      "image": {
+        "alt": "Energy 5 Reels",
+        "path": "/images/new-slot-reviews/merkur/logo-energy-5-reels.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Extra 10 Liner",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/extra-10-liner.php",
+      "image": {
+        "alt": "Extra 10 Liner",
+        "path": "/images/gamelogos/merkur/extra-10-liner.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Extra Wild",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/extra-wild.php",
+      "image": {
+        "alt": "Extra Wild",
+        "path": "/images/gamelogos/merkur/extra-wild.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Fantastic Fruit",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/fantastic-fruit.php",
+      "image": {
+        "alt": "Fantastic Fruit",
+        "path": "/images/gamelogos/merkur/fantastic-fruit.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Final Frontier",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/final-frontier.php",
+      "image": {
+        "alt": "Final Frontier",
+        "path": "/images/gamelogos/merkur/final-frontier.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Fire of Egypt",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/fire-of-egypt.php",
+      "image": {
+        "alt": "Fire of Egypt",
+        "path": "/images/gamelogos/merkur/fire-of-egypt.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Gold Cup",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/gold-cup.php",
+      "image": {
+        "alt": "Gold Cup",
+        "path": "/images/gamelogos/merkur/gold-cup.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Goldbird",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/goldbird.php",
+      "image": {
+        "alt": "Goldbird",
+        "path": "/images/new-slot-reviews/merkur/logo-goldbird.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Golden Gate",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/golden-gate.php",
+      "image": {
+        "alt": "Golden Gate",
+        "path": "/images/gamelogos/merkur/golden-gate.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Golden Goose",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/golden-goose.php",
+      "image": {
+        "alt": "Golden Goose",
+        "path": "/images/gamelogos/merkur/golden-goose.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Gold of Persia",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/gold-of-persia.php",
+      "image": {
+        "alt": "Gold of Persia",
+        "path": "/images/gamelogos/merkur/gold-of-persia.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Hide & Seek",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/hide-and-seek.php",
+      "image": {
+        "alt": "Hide & Seek",
+        "path": "/images/new-slot-reviews/merkur/hide-and-seek.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Guardians of the Monastery",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/guardians-of-the-monastery.php",
+      "image": {
+        "alt": "Guardians of the Monastery",
+        "path": "/images/gamelogos/merkur/guardians-of-the-monastery.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Hocus Pocus Deluxe",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/hocus-pocus-deluxe.php",
+      "image": {
+        "alt": "Hocus Pocus Deluxe",
+        "path": "/images/gamelogos/merkur/hocus-pocus-deluxe.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Holey Moley",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/holey-moley.php",
+      "image": {
+        "alt": "Holey Moley",
+        "path": "/images/new-slot-reviews/merkur/holey-moley.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Hot Flame",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/hot-flame.php",
+      "image": {
+        "alt": "Hot Flame",
+        "path": "/images/gamelogos/merkur/hot-flame.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Illuminati",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/illuminati.php",
+      "image": {
+        "alt": "Illuminati",
+        "path": "/images/gamelogos/merkur/illuminati.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Jamboree Jubilee",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/jamboree-jubilee.php",
+      "image": {
+        "alt": "Jamboree Jubilee",
+        "path": "/images/new-slot-reviews/merkur/jamboree-jubilee.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Indian Ruby",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/indian-ruby.php",
+      "image": {
+        "alt": "Indian Ruby",
+        "path": "/images/gamelogos/merkur/indian-ruby.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Jester's Follies",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/jesters-follies.php",
+      "image": {
+        "alt": "Jester's Follies",
+        "path": "/images/gamelogos/merkur/jesters-follies.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Jokernator",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/jokernator.php",
+      "image": {
+        "alt": "Jokernator",
+        "path": "/images/new-slot-reviews/merkur/jokernator.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Knight's Life",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/knights-life.php",
+      "image": {
+        "alt": "Knight's Life",
+        "path": "/images/gamelogos/merkur/knights-life.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Liberty Bells",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/liberty-bells.php",
+      "image": {
+        "alt": "Liberty Bells",
+        "path": "/images/gamelogos/merkur/liberty-bells.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Light Blocks",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/light-blocks.php",
+      "image": {
+        "alt": "Light Blocks",
+        "path": "/images/gamelogos/merkur/light-blocks.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Merkur Magnus",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/merkur-magnus.php",
+      "image": {
+        "alt": "Merkur Magnus",
+        "path": "/images/gamelogos/merkur/merkur-magnus.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Merkur Roulette",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/roulette.php",
+      "image": {
+        "alt": "Merkur Roulette",
+        "path": "/images/gamelogos/merkur/roulette.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Merkur Sonnenk&auml;fer",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/sonnenkaefer.php",
+      "image": {
+        "alt": "Merkur Sonnenk&auml;fer",
+        "path": "/images/gamelogos/merkur/sonnenkafer.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Metamorphosis",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/metamorphosis.php",
+      "image": {
+        "alt": "Metamorphosis",
+        "path": "/images/gamelogos/merkur/metamorphosis.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Multi Supreme 81",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/multi-supreme-81.php",
+      "image": {
+        "alt": "Multi Supreme 81",
+        "path": "/images/gamelogos/merkur/multi-supreme-81.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Monkey Mayhem",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/monkey-mayhem.php",
+      "image": {
+        "alt": "Monkey Mayhem",
+        "path": "/images/new-slot-reviews/merkur/monkey-mayhem.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Mystic Dragon",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/mystic-dragon.php",
+      "image": {
+        "alt": "Mystic Dragon",
+        "path": "/images/gamelogos/merkur/mystic-dragon.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Night of the Werewolf",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/night-of-the-werewolf.php",
+      "image": {
+        "alt": "Night of the Werewolf",
+        "path": "/images/new-slot-reviews/merkur/night-of-the-werewolf.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Nile Liner",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/nile-liner.php",
+      "image": {
+        "alt": "Nile Liner",
+        "path": "/images/new-slot-reviews/merkur/nile-liner.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Odin",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/odin.php",
+      "image": {
+        "alt": "Odin",
+        "path": "/images/gamelogos/merkur/odin.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Pipeliner",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/pipeliner.php",
+      "image": {
+        "alt": "Pipeliner",
+        "path": "/images/gamelogos/merkur/pipeliner.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Prime Liner",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/prime-liner.php",
+      "image": {
+        "alt": "Prime Liner",
+        "path": "/images/gamelogos/merkur/prime-liner.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Pizza Express",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/pizza-express.php",
+      "image": {
+        "alt": "Pizza Express",
+        "path": "/images/gamelogos/merkur/pizza-express.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Queen of Mars",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/queen-of-mars.php",
+      "image": {
+        "alt": "Queen of Mars",
+        "path": "/images/new-slot-reviews/merkur/queen-of-mars.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Random Joker",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/random-joker.php",
+      "image": {
+        "alt": "Random Joker",
+        "path": "/images/gamelogos/merkur/random-joker.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Sevens Kraze",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/sevens-kraze.php",
+      "image": {
+        "alt": "Sevens Kraze",
+        "path": "/images/gamelogos/merkur/sevens-kraze.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Sicilian Sun",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/sicilian-sun.php",
+      "image": {
+        "alt": "Sicilian Sun",
+        "path": "/images/new-slot-reviews/merkur/sicilian-sun.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Sparta",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/sparta.php",
+      "image": {
+        "alt": "Sparta",
+        "path": "/images/new-slot-reviews/merkur/sparta.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Super 7 Reels",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/super-7-reels.php",
+      "image": {
+        "alt": "Super 7 Reels",
+        "path": "/images/gamelogos/merkur/super-7-reels.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Super Frutta",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/super-frutta.php",
+      "image": {
+        "alt": "Super Frutta",
+        "path": "/images/new-slot-reviews/merkur/logo-super-frutta.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Totem Chief",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/totem-chief.php",
+      "image": {
+        "alt": "Totem Chief",
+        "path": "/images/gamelogos/merkur/totem-chief.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Tricky Trio",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/tricky-trio.php",
+      "image": {
+        "alt": "Tricky Trio",
+        "path": "/images/new-slot-reviews/merkur/tricky-trio.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Triple Chance",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/triple-chance.php",
+      "image": {
+        "alt": "Triple Chance",
+        "path": "/images/gamelogos/merkur/triple-chance.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Triple Triple Chance",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/triple-triple-chance.php",
+      "image": {
+        "alt": "Triple Triple Chance",
+        "path": "/images/gamelogos/merkur/triple-triple-chance.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Vampires",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/vampires.php",
+      "image": {
+        "alt": "Vampires",
+        "path": "/images/gamelogos/merkur/vampires.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Wild Frog",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/wild-frog.php",
+      "image": {
+        "alt": "Wild Frog",
+        "path": "/images/gamelogos/merkur/wild-frog.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "World of Circus",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/world-of-circus.php",
+      "image": {
+        "alt": "World of Circus",
+        "path": "/images/gamelogos/merkur/world-of-circus.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Savanna Stampede",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/savanna-stampede.php",
+      "image": {
+        "alt": "Savanna Stampede",
+        "path": "/images/gamelogos/merkur/savanna-stampede.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Ship of Dreams",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/ship-of-dreams.php",
+      "image": {
+        "alt": "Ship of Dreams",
+        "path": "/images/gamelogos/merkur/ship-of-dreams.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Smart Restart",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/smart-restart.php",
+      "image": {
+        "alt": "Smart Restart",
+        "path": "/images/gamelogos/merkur/smart-restart.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Spirits Of The East",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/spirits-of-the-east.php",
+      "image": {
+        "alt": "Spirits Of The East",
+        "path": "/images/gamelogos/merkur/spirits-of-the-east.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Succubus Offer",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/succubus-offer.php",
+      "image": {
+        "alt": "Succubus Offer",
+        "path": "/images/gamelogos/merkur/succubus-offer.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Super Liner",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/super-liner.php",
+      "image": {
+        "alt": "Super Liner",
+        "path": "/images/gamelogos/merkur/super-liner.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Triple Flame",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/triple-flame.php",
+      "image": {
+        "alt": "Triple Flame",
+        "path": "/images/gamelogos/merkur/triple-flame.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Ultra 7 Wild",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/ultra-7-wild.php",
+      "image": {
+        "alt": "Ultra 7 Wild",
+        "path": "/images/gamelogos/merkur/ultra-7-wild.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Wild Supreme",
+      "subtitle": "Merkur",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/merkur/wild-supreme.php",
+      "image": {
+        "alt": "Wild Supreme",
+        "path": "/images/gamelogos/merkur/wild-supreme.jpg",
+        "srcset": ""
+      }
+    }
+  ],
+  "netent": [
+    {
+      "title": "Aloha",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4.5",
+        "scale": "5"
+      },
+      "link": "/netent/aloha.php",
+      "image": {
+        "alt": "Aloha",
+        "path": "/images/gamelogos/slots/aloha.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Blood Suckers",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4.5",
+        "scale": "5"
+      },
+      "link": "/netent/blood-suckers.php",
+      "image": {
+        "alt": "Blood Suckers",
+        "path": "/images/gamelogos/slots/blood-suckers.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Cosmic Fortune",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4.6",
+        "scale": "5"
+      },
+      "link": "/netent/cosmic-fortune.php",
+      "image": {
+        "alt": "Cosmic Fortune",
+        "path": "/images/gamelogos/slots/cosmic-fortune.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Creature from the Black Lagoon",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4.4",
+        "scale": "5"
+      },
+      "link": "/netent/creature-from-the-black-lagoon.php",
+      "image": {
+        "alt": "Creature from the Black Lagoon",
+        "path": "/images/gamelogos/slots/creature-from-the-black-lagoon.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Dazzle Me",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4.5",
+        "scale": "5"
+      },
+      "link": "/netent/dazzle-me.php",
+      "image": {
+        "alt": "Dazzle Me",
+        "path": "/images/gamelogos/slots/dazzle-me.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Dead or Alive",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/netent/dead-or-alive.php",
+      "image": {
+        "alt": "Dead or Alive",
+        "path": "/images/gamelogos/slots/dead-or-alive.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Dead or Alive 2",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4.5",
+        "scale": "5"
+      },
+      "link": "/netent/dead-or-alive-2.php",
+      "image": {
+        "alt": "Dead or Alive 2",
+        "path": "/images/new-slot-reviews/netent/dead-or-alive-2-rectangle_logo.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Devil's Delight",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/netent/devils-delight.php",
+      "image": {
+        "alt": "Devil's Delight",
+        "path": "/images/gamelogos/slots/devils-delight.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Dracula",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/netent/dracula.php",
+      "image": {
+        "alt": "Dracula",
+        "path": "/images/gamelogos/slots/dracula.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Fruit Shop",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/netent/fruit-shop.php",
+      "image": {
+        "alt": "Fruit Shop",
+        "path": "/images/gamelogos/slots/fruit-shop.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Gold Money Frog",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/netent/gold-money-frog.php",
+      "image": {
+        "alt": "Gold Money Frog",
+        "path": "/images/new-slot-reviews/gold-money-frog/gold-money-frog.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Gonzo's Quest",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/netent/gonzos-quest.php",
+      "image": {
+        "alt": "Gonzo's Quest",
+        "path": "/images/gamelogos/slots/gonzos-quest.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Gorilla Kingdom",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/netent/gorilla-kingdom.php",
+      "image": {
+        "alt": "Gorilla Kingdom",
+        "path": "/images/new-slot-reviews/netent/gorilla-kingdom-logo.png",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Guns N Roses",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/netent/guns-n-roses.php",
+      "image": {
+        "alt": "Guns N Roses",
+        "path": "/images/gamelogos/slots/guns-n-roses.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "The Invisible Man",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/netent/invisible-man.php",
+      "image": {
+        "alt": "The Invisible Man",
+        "path": "/images/gamelogos/slots/invisible-man.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Jack and the Beanstalk",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/netent/jack-and-the-beanstalk.php",
+      "image": {
+        "alt": "Jack and the Beanstalk",
+        "path": "/images/gamelogos/slots/jack-and-the-beanstalk.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Jack Hammer",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/netent/jack-hammer.php",
+      "image": {
+        "alt": "Jack Hammer",
+        "path": "/images/gamelogos/slots/jack-hammer.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Jack Hammer 2",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/netent/jack-hammer-2.php",
+      "image": {
+        "alt": "Jack Hammer 2",
+        "path": "/images/gamelogos/slots/jack-hammer-2.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Jimi Hendrix",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/netent/jimi-hendrix.php",
+      "image": {
+        "alt": "Jimi Hendrix",
+        "path": "/images/gamelogos/slots/jimi-hendrix.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Lost Island",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/netent/lost-island.php",
+      "image": {
+        "alt": "Lost Island",
+        "path": "/images/gamelogos/slots/lost-island.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Mega Fortune",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/netent/mega-fortune.php",
+      "image": {
+        "alt": "Mega Fortune",
+        "path": "/images/gamelogos/slots/mega-fortune.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Mega Joker",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/netent/mega-joker.php",
+      "image": {
+        "alt": "Mega Joker",
+        "path": "/images/gamelogos/slots/mega-joker.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Narcos",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4.5",
+        "scale": "5"
+      },
+      "link": "/netent/narcos.php",
+      "image": {
+        "alt": "Narcos",
+        "path": "/images/new-slot-reviews/netent/narcos-rectangle_logo.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Neon Staxx",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/netent/neon-staxx.php",
+      "image": {
+        "alt": "Neon Staxx",
+        "path": "/images/gamelogos/slots/neon-staxx.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Robin Hood",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/netent/robin-hood.php",
+      "image": {
+        "alt": "Robin Hood",
+        "path": "/images/gamelogos/slots/robin-hood.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Secret of the Stones",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/netent/secret-of-the-stones.php",
+      "image": {
+        "alt": "Secret of the Stones",
+        "path": "/images/gamelogos/slots/secret-of-the-stones.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Starburst",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/netent/starburst.php",
+      "image": {
+        "alt": "Starburst",
+        "path": "/images/gamelogos/slots/starburst.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Twin Spin",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/netent/twin-spin.php",
+      "image": {
+        "alt": "Twin Spin",
+        "path": "/images/gamelogos/slots/twin-spin.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Vikings",
+      "subtitle": "NetEnt",
+      "rating": {
+        "value": "4.5",
+        "scale": "5"
+      },
+      "link": "/netent/vikings.php",
+      "image": {
+        "alt": "Vikings",
+        "path": "/images/games/netent/vikings.png",
+        "srcset": ""
+      }
+    }
+  ],
+  "novoline": [
+    {
+      "title": "African Simba",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/african-simba.php",
+      "image": {
+        "alt": "African Simba",
+        "path": "/images/gamelogos/novoline/african-simba.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Book of Ra",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/book-of-ra.php",
+      "image": {
+        "alt": "Book of Ra",
+        "path": "/images/gamelogos/novoline/book-of-ra.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "The Alchemist",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/the-alchemist.php",
+      "image": {
+        "alt": "The Alchemist",
+        "path": "/images/gamelogos/novoline/the-alchemist.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Always Hot",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/always-hot.php",
+      "image": {
+        "alt": "Always Hot",
+        "path": "/images/gamelogos/novoline/always-hot.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Beetle Mania",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/beetle-mania.php",
+      "image": {
+        "alt": "Beetle Mania",
+        "path": "/images/gamelogos/novoline/beetle-mania.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "American Poker !!",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/american-poker-2.php",
+      "image": {
+        "alt": "American Poker !!",
+        "path": "/images/gamelogos/novoline/american-poker-2.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Big Catch",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/big-catch.php",
+      "image": {
+        "alt": "Big Catch",
+        "path": "/images/gamelogos/novoline/big-catch.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Blackjack",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/blackjack.php",
+      "image": {
+        "alt": "Blackjack",
+        "path": "/images/gamelogos/novoline/blackjack.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Book of Maya",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/book-of-maya.php",
+      "image": {
+        "alt": "Book of Maya",
+        "path": "/images/gamelogos/novoline/book-of-maya.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Book of Ra 6",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/book-of-ra-6.php",
+      "image": {
+        "alt": "Book of Ra 6",
+        "path": "/images/gamelogos/novoline/book-of-ra-6.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Book of Ra Deluxe",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/book-of-ra-deluxe.php",
+      "image": {
+        "alt": "Book of Ra Deluxe",
+        "path": "/images/gamelogos/novoline/book-of-ra-deluxe.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Bugs-n-Bees",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/bugs-n-bees.php",
+      "image": {
+        "alt": "Bugs-n-Bees",
+        "path": "/images/gamelogos/novoline/bugs-n-bees.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Captain Venture",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/captain-venture.php",
+      "image": {
+        "alt": "Captain Venture",
+        "path": "/images/gamelogos/novoline/captain-venture.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Caribbean Holidays",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/caribbean-holidays.php",
+      "image": {
+        "alt": "Caribbean Holidays",
+        "path": "/images/gamelogos/novoline/caribbean-holidays.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Columbus Deluxe",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/columbus-deluxe.php",
+      "image": {
+        "alt": "Columbus Deluxe",
+        "path": "/images/gamelogos/novoline/columbus-deluxe.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Dolphin's Pearl Deluxe",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/dolphins-pearl-deluxe.php",
+      "image": {
+        "alt": "Dolphin's Pearl Deluxe",
+        "path": "/images/gamelogos/novoline/dolphins-pearl-deluxe.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Dominator",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/",
+      "image": {
+        "alt": "Dominator",
+        "path": "/images/gamelogos/novoline/dominator.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Fairy Queen",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/fairy-queen.php",
+      "image": {
+        "alt": "Fairy Queen",
+        "path": "/images/gamelogos/novoline/fairy-queen.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Firestarter",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/firestarter.php",
+      "image": {
+        "alt": "Firestarter",
+        "path": "/images/gamelogos/novoline/firestarter.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Fruits -n- Sevens",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/fruits-n-sevens.php",
+      "image": {
+        "alt": "Fruits -n- Sevens",
+        "path": "/images/gamelogos/novoline/fruits-n-sevens.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Garden of Riches",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/garden-of-riches.php",
+      "image": {
+        "alt": "Garden of Riches",
+        "path": "/images/gamelogos/novoline/garden-of-riches.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Golden Sevens",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/golden-sevens.php",
+      "image": {
+        "alt": "Golden Sevens",
+        "path": "/images/gamelogos/novoline/golden-sevens.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Hoffmania",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/hoffmania.php",
+      "image": {
+        "alt": "Hoffmania",
+        "path": "/images/gamelogos/novoline/hoffmania.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Hoffmeister",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/hoffmeister.php",
+      "image": {
+        "alt": "Hoffmeister",
+        "path": "/images/gamelogos/novoline/hoffmeister.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Katana",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/katana.php",
+      "image": {
+        "alt": "Katana",
+        "path": "/images/gamelogos/novoline/katana.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Lord of the Ocean",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/lord-of-the-ocean.php",
+      "image": {
+        "alt": "Lord of the Ocean",
+        "path": "/images/gamelogos/novoline/lord-of-the-ocean.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Lucky Lady's Charm",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/lucky-ladys-charm.php",
+      "image": {
+        "alt": "Lucky Lady's Charm",
+        "path": "/images/gamelogos/novoline/lucky-ladys-charm.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Lucky Lady's Roulette",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/lucky-ladys-roulette.php",
+      "image": {
+        "alt": "Lucky Lady's Roulette",
+        "path": "/images/gamelogos/novoline/lucky-ladys-roulette.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Magic Princess",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/magic-princess.php",
+      "image": {
+        "alt": "Magic Princess",
+        "path": "/images/gamelogos/novoline/magic-princess.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Mermaid's Pearl",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/mermaids-pearl.php",
+      "image": {
+        "alt": "Mermaid's Pearl",
+        "path": "/images/gamelogos/novoline/mermaids-pearl.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Mystic Secrets",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/mystic-secrets.php",
+      "image": {
+        "alt": "Mystic Secrets",
+        "path": "/images/gamelogos/novoline/mystic-secrets.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Orca",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/orca.php",
+      "image": {
+        "alt": "Orca",
+        "path": "/images/gamelogos/novoline/orca.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Pharaoh's Ring",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/pharaohs-ring.php",
+      "image": {
+        "alt": "Pharaoh's Ring",
+        "path": "/images/gamelogos/novoline/pharaohs-ring.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Queen of Hearts Deluxe",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/queen-of-hearts-deluxe.php",
+      "image": {
+        "alt": "Queen of Hearts Deluxe",
+        "path": "/images/gamelogos/novoline/queen-of-hearts-deluxe.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Quest For Gold",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/quest-for-gold.php",
+      "image": {
+        "alt": "Quest For Gold",
+        "path": "/images/gamelogos/novoline/quest-for-gold.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Ramses II",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/ramses-ii.php",
+      "image": {
+        "alt": "Ramses II",
+        "path": "/images/gamelogos/novoline/ramses-ii.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Random Runner 15",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/random-runner-15.php",
+      "image": {
+        "alt": "Random Runner 15",
+        "path": "/images/gamelogos/novoline/random-runner-15.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Ra Roulette",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/ra-roulette.php",
+      "image": {
+        "alt": "Ra Roulette",
+        "path": "/images/gamelogos/novoline/ra-roulette.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Red Lady",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/red-lady.php",
+      "image": {
+        "alt": "Red Lady",
+        "path": "/images/gamelogos/novoline/red-lady.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Roulette",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/roulette.php",
+      "image": {
+        "alt": "Roulette",
+        "path": "/images/gamelogos/novoline/roulette.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Royal Dynasty",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/royal-dynasty.php",
+      "image": {
+        "alt": "Royal Dynasty",
+        "path": "/images/gamelogos/novoline/royal-dynasty.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Rumpel Wildspins",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/rumpel-wildspins.php",
+      "image": {
+        "alt": "Rumpel Wildspins",
+        "path": "/images/gamelogos/novoline/rumpel-wildspins.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Sea Sirens",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/sea-sirens.php",
+      "image": {
+        "alt": "Sea Sirens",
+        "path": "/images/gamelogos/novoline/sea-sirens.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Sizzling Gems",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/sizzling-gems.php",
+      "image": {
+        "alt": "Sizzling Gems",
+        "path": "/images/gamelogos/novoline/sizzling-gems.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Sizzling Hot Deluxe",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/sizzling-hot-deluxe.php",
+      "image": {
+        "alt": "Sizzling Hot Deluxe",
+        "path": "/images/gamelogos/novoline/sizzling-hot-deluxe.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Sizzling Hot Quattro",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/sizzling-hot-quattro.php",
+      "image": {
+        "alt": "Sizzling Hot Quattro",
+        "path": "/images/gamelogos/novoline/sizzling-hot-quattro.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Super Gaminator",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/super-gaminator.php",
+      "image": {
+        "alt": "Super Gaminator",
+        "path": "/images/gamelogos/novoline/super-gaminator.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Ultra Hot Deluxe",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/ultra-hot-deluxe.php",
+      "image": {
+        "alt": "Ultra Hot Deluxe",
+        "path": "/images/gamelogos/novoline/ultra-hot-deluxe.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Wizard of Odds",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/wizard-of-odds.php",
+      "image": {
+        "alt": "Wizard of Odds",
+        "path": "/images/gamelogos/novoline/wizard-of-odds.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Xtra Hot",
+      "subtitle": "Novoline",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/novoline/xtra-hot.php",
+      "image": {
+        "alt": "Xtra Hot",
+        "path": "/images/gamelogos/novoline/xtra-hot.jpg",
+        "srcset": ""
+      }
+    }
+  ],
+  "pragmatic-play": [
+    {
+      "title": "Big Brass Bonanza",
+      "subtitle": "Pragmatic Play",
+      "rating": {
+        "value": "4.5",
+        "scale": "5"
+      },
+      "link": "/pragmatic-play/big-brass-bonanza.php",
+      "image": {
+        "alt": "Big Brass Bonanza",
+        "path": "/images/gamelogos/pragmatic-play/big-brass-bonanza.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Book of Tut",
+      "subtitle": "Pragmatic Play",
+      "rating": {
+        "value": "4.5",
+        "scale": "5"
+      },
+      "link": "/pragmatic-play/book-of-tut.php",
+      "image": {
+        "alt": "Book of Tut",
+        "path": "/images/new-slot-reviews/pragmatic-play/games-logos/book-of-tut-logo.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Bronco Spirit",
+      "subtitle": "Pragmatic Play",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/pragmatic-play/bronco-spirit.php",
+      "image": {
+        "alt": "Bronco Spirit",
+        "path": "/images/new-slot-reviews/pragmatic-play/games-logos/bronco-spirit.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Buffalo King",
+      "subtitle": "Pragmatic Play",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/pragmatic-play/buffalo-king.php",
+      "image": {
+        "alt": "Buffalo King",
+        "path": "/images/new-slot-reviews/pragmatic-play/games-logos/buffalo-king.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Great Rhino Megaways",
+      "subtitle": "Pragmatic Play",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/pragmatic-play/great-rhino-megaways.php",
+      "image": {
+        "alt": "Great Rhino Megaways",
+        "path": "/images/new-slot-reviews/pragmatic-play/games-logos/great-rhino-megaways.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "John Hunter and the Tomb of the Scarab Queen",
+      "subtitle": "Pragmatic Play",
+      "rating": {
+        "value": "4.5",
+        "scale": "5"
+      },
+      "link": "/pragmatic-play/john-hunter-tomb-scarab-queen.php",
+      "image": {
+        "alt": "John Hunter and the Tomb of the Scarab Queen",
+        "path": "/images/new-slot-reviews/pragmatic-play/games-logos/john-hunter-and-the-tomb-of-the-scarab-queen.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Mustang Gold",
+      "subtitle": "Pragmatic Play",
+      "rating": {
+        "value": "4.5",
+        "scale": "5"
+      },
+      "link": "/pragmatic-play/mustang-gold.php",
+      "image": {
+        "alt": "Mustang Gold",
+        "path": "/images/new-slot-reviews/pragmatic-play/games-logos/mustang-gold.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Release The Kraken",
+      "subtitle": "Pragmatic Play",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/pragmatic-play/release-the-kraken.php",
+      "image": {
+        "alt": "Release The Kraken",
+        "path": "/images/new-slot-reviews/pragmatic-play/games-logos/release-the-kraken.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Sweet Bonanza",
+      "subtitle": "Pragmatic Play",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/pragmatic-play/sweet-bonanza.php",
+      "image": {
+        "alt": "Sweet Bonanza",
+        "path": "/images/new-slot-reviews/pragmatic-play/games-logos/sweet-bonanza.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "The Dog House",
+      "subtitle": "Pragmatic Play",
+      "rating": {
+        "value": "4.5",
+        "scale": "5"
+      },
+      "link": "/pragmatic-play/the-dog-house.php",
+      "image": {
+        "alt": "The Dog House",
+        "path": "/images/new-slot-reviews/pragmatic-play/games-logos/the-dog-house.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Wild West Gold",
+      "subtitle": "Pragmatic Play",
+      "rating": {
+        "value": "4.5",
+        "scale": "5"
+      },
+      "link": "/pragmatic-play/wild-west-gold.php",
+      "image": {
+        "alt": "Wild West Gold",
+        "path": "/images/new-slot-reviews/pragmatic-play/games-logos/wild-west-gold.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Wolf Gold",
+      "subtitle": "Pragmatic Play",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/pragmatic-play/wolf-gold.php",
+      "image": {
+        "alt": "Wolf Gold",
+        "path": "/images/new-slot-reviews/pragmatic-play/games-logos/wolf-gold.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "The Hand of Midas",
+      "subtitle": "Pragmatic Play",
+      "rating": {
+        "value": "4.5",
+        "scale": "5"
+      },
+      "link": "/pragmatic-play/the-hand-of-midas.php",
+      "image": {
+        "alt": "The Hand of Midas",
+        "path": "/_atomic/assets/images/games/splash-screens/the-hand-of-midas.jpg",
+        "srcset": ""
+      }
+    }
+  ],
+  "play-n-go": [
+    {
+      "title": "7 Sins",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "4.3",
+        "scale": "5"
+      },
+      "link": "/play-n-go/7-sins.php",
+      "image": {
+        "alt": "7 Sins",
+        "path": "/images/gamelogos/play-n-go/7-sins.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Aztec Idols",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/play-n-go/aztec-idols.php",
+      "image": {
+        "alt": "Aztec Idols",
+        "path": "/images/gamelogos/play-n-go/aztec-idols.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Book of Dead",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/play-n-go/book-of-dead.php",
+      "image": {
+        "alt": "Book of Dead",
+        "path": "/images/gamelogos/play-n-go/book-of-dead.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Fire Joker",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/play-n-go/fire-joker.php",
+      "image": {
+        "alt": "Fire Joker",
+        "path": "/images/new-slot-reviews/play-n-go/fire-joker-logo.png",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Gemix",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "4.3",
+        "scale": "5"
+      },
+      "link": "/play-n-go/gemix.php",
+      "image": {
+        "alt": "Gemix",
+        "path": "/images/gamelogos/slots/gemix.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Grim Muerto",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "4.3",
+        "scale": "5"
+      },
+      "link": "/play-n-go/grim-muerto.php",
+      "image": {
+        "alt": "Grim Muerto",
+        "path": "/images/gamelogos/slots/grim-muerto.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Holiday Season",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/play-n-go/holiday-season.php",
+      "image": {
+        "alt": "Holiday Season",
+        "path": "/images/gamelogos/slots/holiday-season.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Hugo",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/play-n-go/hugo.php",
+      "image": {
+        "alt": "Hugo",
+        "path": "/images/gamelogos/slots/hugo.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Inferno Star",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/play-n-go/inferno-star.php",
+      "image": {
+        "alt": "Inferno Star",
+        "path": "/images/gamelogos/play-n-go/inferno-star.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Legacy of Egypt",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/play-n-go/legacy-of-egypt.php",
+      "image": {
+        "alt": "Legacy of Egypt",
+        "path": "/images/new-slot-reviews/play-n-go/legacy-of-egypt-rectangle_logo.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Moon Princess",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/play-n-go/moon-princess.php",
+      "image": {
+        "alt": "Moon Princess",
+        "path": "/images/new-slot-reviews/play-n-go/moon-princess-logo.png",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Legacy of Dead",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/play-n-go/legacy-of-dead.php",
+      "image": {
+        "alt": "Legacy of Dead",
+        "path": "/images/new-slot-reviews/play-n-go/legacy-of-dead-logo.png",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Reactoonz",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "3.8",
+        "scale": "5"
+      },
+      "link": "/play-n-go/reactoonz.php",
+      "image": {
+        "alt": "Reactoonz",
+        "path": "/images/new-slot-reviews/play-n-go/reactoonz-rectangle_logo.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Ring of Odin",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "4.3",
+        "scale": "5"
+      },
+      "link": "/play-n-go/ring-of-odin.php",
+      "image": {
+        "alt": "Ring of Odin",
+        "path": "/images/new-slot-reviews/play-n-go/ring-of-odin-logo.png",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Rise of Merlin",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/play-n-go/rise-of-merlin.php",
+      "image": {
+        "alt": "Rise of Merlin",
+        "path": "/images/new-slot-reviews/play-n-go/rise-of-merlin-logo.png",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Sails of Gold",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "3.8",
+        "scale": "5"
+      },
+      "link": "/play-n-go/sails-of-gold.php",
+      "image": {
+        "alt": "Sails of Gold",
+        "path": "/images/gamelogos/play-n-go/sails-of-gold.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Super Flip",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "4.5",
+        "scale": "5"
+      },
+      "link": "/play-n-go/super-flip.php",
+      "image": {
+        "alt": "Super Flip",
+        "path": "/images/gamelogos/play-n-go/super-flip.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "That’s Rich",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "4.4",
+        "scale": "5"
+      },
+      "link": "/play-n-go/thats-rich.php",
+      "image": {
+        "alt": "That’s Rich",
+        "path": "/images/new-slot-reviews/play-n-go/thats-rich-logo.png",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Troll Hunters",
+      "subtitle": "Play'n Go",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/play-n-go/troll-hunters.php",
+      "image": {
+        "alt": "Troll Hunters",
+        "path": "/images/gamelogos/play-n-go/troll-hunters.jpg",
+        "srcset": ""
+      }
+    }
+  ],
+  "bally-wulff": [
+    {
+      "title": "40 Thieves",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "4.5",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/40-thieves.php",
+      "image": {
+        "alt": "40 Thieves",
+        "path": "/images/gamelogos/slots/40-thieves.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Ancient Magic",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "5",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/ancient-magic.php",
+      "image": {
+        "alt": "Ancient Magic",
+        "path": "/images/gamelogos/slots/ancient-magic.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Ancient Riches",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/ancient-riches.php",
+      "image": {
+        "alt": "Ancient Riches",
+        "path": "/images/gamelogos/slots/ancient-riches.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Asena",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "4.3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/asena.php",
+      "image": {
+        "alt": "Asena",
+        "path": "/images/gamelogos/slots/asena.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Book of Madness",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "4.3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/book-of-madness.php",
+      "image": {
+        "alt": "Book of Madness",
+        "path": "/images/new-slot-reviews/bally-wulff/book-of-madness-logo.png",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Book of Moorhuhn",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/book-of-moorhuhn.php",
+      "image": {
+        "alt": "Book of Moorhuhn",
+        "path": "/images/gamelogos/slots/book-of-moorhuhn.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Book of Romeo and Julia",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/book-of-romeo-and-julia.php",
+      "image": {
+        "alt": "Book of Romeo and Julia",
+        "path": "/images/gamelogos/slots/book-of-romeo-and-julia.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Book of the Ages",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/book-of-the-ages.php",
+      "image": {
+        "alt": "Book of the Ages",
+        "path": "/images/gamelogos/slots/book-of-the-ages.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Books and Bulls",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.6",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/books-and-bulls.php",
+      "image": {
+        "alt": "Books and Bulls",
+        "path": "/images/gamelogos/slots/books-and-bulls.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Books & Temples",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/books-and-temples.php",
+      "image": {
+        "alt": "Books & Temples",
+        "path": "/images/new-slot-reviews/bally-wulff/books-and-temples-logo.png",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Burn the Sevens",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "2.5",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/burn-the-sevens.php",
+      "image": {
+        "alt": "Burn the Sevens",
+        "path": "/images/gamelogos/slots/burn-the-sevens.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Crystal Ball",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "2.5",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/crystal-ball.php",
+      "image": {
+        "alt": "Crystal Ball",
+        "path": "/images/gamelogos/slots/crystal-ball.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Cutie Cat",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.6",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/cutie-cat.php",
+      "image": {
+        "alt": "Cutie Cat",
+        "path": "/images/gamelogos/slots/cutie-cat.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Dragon of the Princess",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.4",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/dragon-of-the-princess.php",
+      "image": {
+        "alt": "Dragon of the Princess",
+        "path": "/images/gamelogos/slots/dragon-of-the-princess.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Duck Shooter",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/duck-shooter.php",
+      "image": {
+        "alt": "Duck Shooter",
+        "path": "/images/gamelogos/slots/duck-shooter.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Explodiac",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "2.5",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/explodiac.php",
+      "image": {
+        "alt": "Explodiac",
+        "path": "/images/gamelogos/slots/explodiac.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Fancy Fruits",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/fancy-fruits.php",
+      "image": {
+        "alt": "Fancy Fruits",
+        "path": "/images/gamelogos/slots/fancy-fruits.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Forever Diamonds",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "2.6",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/forever-diamonds.php",
+      "image": {
+        "alt": "Forever Diamonds",
+        "path": "/images/gamelogos/slots/forever-diamonds.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Fruit Mania",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "2.5",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/fruit-mania.php",
+      "image": {
+        "alt": "Fruit Mania",
+        "path": "/images/gamelogos/slots/fruit-mania.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Fruit Rush",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/fruit-rush.php",
+      "image": {
+        "alt": "Fruit Rush",
+        "path": "/images/new-slot-reviews/bally-wulff/fruit-rush-logo.png",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Gates of Persia",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/gates-of-persia.php",
+      "image": {
+        "alt": "Gates of Persia",
+        "path": "/images/gamelogos/slots/gates-of-persia.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Golden Ei of Moorhuhn",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/golden-ei-of-moorhuhn.php",
+      "image": {
+        "alt": "Golden Ei of Moorhuhn",
+        "path": "/images/gamelogos/slots/golden-ei-of-moorhuhn.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Great Warrior",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/great-warrior.php",
+      "image": {
+        "alt": "Great Warrior",
+        "path": "/images/gamelogos/slots/great-warrior.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "King of the Jungle",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/king-of-the-jungle.php",
+      "image": {
+        "alt": "King of the Jungle",
+        "path": "/images/gamelogos/slots/king-of-the-jungle.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "La Dolce Vita",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.4",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/la-dolce-vita.php",
+      "image": {
+        "alt": "La Dolce Vita",
+        "path": "/images/gamelogos/slots/la-dolce-vita.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Love Island: The Book Game",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.4",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/love-island-the-book-game.php",
+      "image": {
+        "alt": "Love Island: The Book Game",
+        "path": "/images/gamelogos/slots/love-island-the-book-game.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Magic Book",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "2.5",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/magic-book.php",
+      "image": {
+        "alt": "Magic Book",
+        "path": "/images/gamelogos/slots/magic-book.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Maaax Diamonds",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/maaax-diamonds.php",
+      "image": {
+        "alt": "Maaax Diamonds",
+        "path": "/images/gamelogos/slots/maaax-diamonds.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Magic Stone",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/magic-stone.php",
+      "image": {
+        "alt": "Magic Stone",
+        "path": "/images/gamelogos/slots/magic-stone.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Mighty 40",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.4",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/mighty-40.php",
+      "image": {
+        "alt": "Mighty 40",
+        "path": "/images/gamelogos/slots/mighty-40.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Mystic Force",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/mystic-force.php",
+      "image": {
+        "alt": "Mystic Force",
+        "path": "/images/gamelogos/slots/mystic-force.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Persian Dreams",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/persian-dreams.php",
+      "image": {
+        "alt": "Persian Dreams",
+        "path": "/images/gamelogos/slots/persian-dreams.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Phantom's Mirror",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/phantoms-mirror.php",
+      "image": {
+        "alt": "Phantom's Mirror",
+        "path": "/images/gamelogos/slots/phantoms-mirror.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Pharaos Riches",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/pharaos-riches.php",
+      "image": {
+        "alt": "Pharaos Riches",
+        "path": "/images/gamelogos/slots/pharaos-riches.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Queen of the North",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.4",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/queen-of-the-north.php",
+      "image": {
+        "alt": "Queen of the North",
+        "path": "/images/gamelogos/slots/queen-of-the-north.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Ramses Book",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/ramses-book.php",
+      "image": {
+        "alt": "Ramses Book",
+        "path": "/images/gamelogos/slots/ramses-book.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Roman Legion",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/roman-legion.php",
+      "image": {
+        "alt": "Roman Legion",
+        "path": "/images/gamelogos/slots/roman-legion.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Royal Seven XXL",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/royal-seven-xxl.php",
+      "image": {
+        "alt": "Royal Seven XXL",
+        "path": "/images/gamelogos/desktop/royal-seven-xxl.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Savannah Moon",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.7",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/savanna-moon.php",
+      "image": {
+        "alt": "Savannah Moon",
+        "path": "/images/gamelogos/slots/savanna-moon.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Shogun's Secret",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.4",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/shoguns-secret.php",
+      "image": {
+        "alt": "Shogun's Secret",
+        "path": "/images/gamelogos/slots/shoguns-secret.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Simply the Best",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/simply-the-best.php",
+      "image": {
+        "alt": "Simply the Best",
+        "path": "/images/gamelogos/slots/simply-the-best.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Stacks of Jacks",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.6",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/stacks-of-jacks.php",
+      "image": {
+        "alt": "Stacks of Jacks",
+        "path": "/images/new-slot-reviews/bally-wulff/stacks-of-jacks-logo.png",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Sticky Diamonds",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/sticky-diamonds.php",
+      "image": {
+        "alt": "Sticky Diamonds",
+        "path": "/images/gamelogos/slots/sticky-diamonds.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Super Duper Cherry",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/super-duper-cherry.php",
+      "image": {
+        "alt": "Super Duper Cherry",
+        "path": "/images/gamelogos/slots/super-duper-cherry.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Super Duper Moorhuhn",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/super-duper-moorhuhn.php",
+      "image": {
+        "alt": "Super Duper Moorhuhn",
+        "path": "/images/gamelogos/slots/super-duper-moorhuhn.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Take 5",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/take-5.php",
+      "image": {
+        "alt": "Take 5",
+        "path": "/images/gamelogos/slots/take-5.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "The Expandable",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/the-expandable.php",
+      "image": {
+        "alt": "The Expandable",
+        "path": "/images/gamelogos/slots/the-expandable.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "The Land of Heroes",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/the-land-of-heroes.php",
+      "image": {
+        "alt": "The Land of Heroes",
+        "path": "/images/games/bally-wulff/the-land-of-heroes.png",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Thor's Hammer",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/thors-hammer.php",
+      "image": {
+        "alt": "Thor's Hammer",
+        "path": "/images/gamelogos/slots/thors-hammer.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Tower of Power",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/tower-of-power.php",
+      "image": {
+        "alt": "Tower of Power",
+        "path": "/images/new-slot-reviews/bally-wulff/tower-of-power-rectangle_logo.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Wild Rapa Nui",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3.3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/wild-rapa-nui.php",
+      "image": {
+        "alt": "Wild Rapa Nui",
+        "path": "/images/gamelogos/slots/wild-rapa-nui.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Wild Rubies",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "2.5",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/wild-rubies.php",
+      "image": {
+        "alt": "Wild Rubies",
+        "path": "/images/gamelogos/slots/wild-rubies.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Wilds Gone Wild",
+      "subtitle": "Bally Wulff",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/bally-wulff/wilds-gone-wild.php",
+      "image": {
+        "alt": "Wilds Gone Wild",
+        "path": "/images/gamelogos/slots/wilds-gone-wild.jpg",
+        "srcset": ""
+      }
+    }
+  ],
+  "microgaming": [
+    {
+      "title": "108 Heroes Multiplier Fortunes",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.6",
+        "scale": "5"
+      },
+      "link": "/microgaming/108-heroes-multiplier-fortune.php",
+      "image": {
+        "alt": "108 Heroes Multiplier Fortunes",
+        "path": "/images/new-slot-reviews/microgaming/108-heroes-multiplier-fortune-rectangle_logo.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Adventure Palace",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/adventure-palace.php",
+      "image": {
+        "alt": "Adventure Palace",
+        "path": "/images/gamelogos/slots/adventure-palace.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Agent Jane Blonde",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/agent-jane-blonde.php",
+      "image": {
+        "alt": "Agent Jane Blonde",
+        "path": "/images/gamelogos/slots/agent-jane-blonde.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Agent Jane Blonde Returns",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/agent-jane-blond-returns.php",
+      "image": {
+        "alt": "Agent Jane Blonde Returns",
+        "path": "/images/new-slot-reviews/microgaming/agent-jane-blond-return-rectangle_logo.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Ariana",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/ariana.php",
+      "image": {
+        "alt": "Ariana",
+        "path": "/images/gamelogos/slots/ariana.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Avalon",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/avalon.php",
+      "image": {
+        "alt": "Avalon",
+        "path": "/images/gamelogos/slots/avalon.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Avalon II",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/avalon-2.php",
+      "image": {
+        "alt": "Avalon II",
+        "path": "/images/gamelogos/slots/avalon-2.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Basketball Star",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/basketball-star.php",
+      "image": {
+        "alt": "Basketball Star",
+        "path": "/images/gamelogos/slots/basketball-star.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Book of Oz",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/book-of-oz.php",
+      "image": {
+        "alt": "Book of Oz",
+        "path": "/images/new-slot-reviews/microgaming/book-of-oz-rectangle_logo.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Break Away",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.8",
+        "scale": "5"
+      },
+      "link": "/microgaming/break-away.php",
+      "image": {
+        "alt": "Break Away",
+        "path": "/images/gamelogos/slots/break-away.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Break Da Bank Again",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.6",
+        "scale": "5"
+      },
+      "link": "/microgaming/break-da-bank-again.php",
+      "image": {
+        "alt": "Break Da Bank Again",
+        "path": "/images/gamelogos/slots/break-da-bank-again.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Burning Desire",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/burning-desire.php",
+      "image": {
+        "alt": "Burning Desire",
+        "path": "/images/gamelogos/slots/burning-desire.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Castle Builder",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/castle-builder.php",
+      "image": {
+        "alt": "Castle Builder",
+        "path": "/images/gamelogos/slots/castle-builder.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Centre Courtr",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.4",
+        "scale": "5"
+      },
+      "link": "/microgaming/centre-court.php",
+      "image": {
+        "alt": "Centre Courtr",
+        "path": "/images/gamelogos/slots/centre-court.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Cool Wolf",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/microgaming/cool-wolf.php",
+      "image": {
+        "alt": "Cool Wolf",
+        "path": "/images/gamelogos/slots/cool-wolf.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Cricket Star",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/cricket-star.php",
+      "image": {
+        "alt": "Cricket Star",
+        "path": "/images/gamelogos/slots/cricket-star.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Dream Date",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/microgaming/dream-date.php",
+      "image": {
+        "alt": "Dream Date",
+        "path": "/images/gamelogos/slots/dream-date-new.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Football Star",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/microgaming/football-star.php",
+      "image": {
+        "alt": "Football Star",
+        "path": "/images/gamelogos/slots/football-star.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Game of Thrones",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/game-of-thrones.php",
+      "image": {
+        "alt": "Game of Thrones",
+        "path": "/images/gamelogos/slots/game-of-thrones.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Immortal Romance",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/immortal-romance.php",
+      "image": {
+        "alt": "Immortal Romance",
+        "path": "/images/gamelogos/slots/immortal-romance.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Jungle Jim: El Dorado",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/jungle-jim-el-dorado.php",
+      "image": {
+        "alt": "Jungle Jim: El Dorado",
+        "path": "/images/gamelogos/slots/jungle-jim-el-dorado.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Kathmandu",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/microgaming/kathmandu.php",
+      "image": {
+        "alt": "Kathmandu",
+        "path": "/images/gamelogos/slots/kathmandu.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Kings of Cash",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/microgaming/kings-of-cash.php",
+      "image": {
+        "alt": "Kings of Cash",
+        "path": "/images/gamelogos/slots/kings-of-cash.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Ladies Nite",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/microgaming/ladies-nite.php",
+      "image": {
+        "alt": "Ladies Nite",
+        "path": "/images/gamelogos/slots/ladies-nite.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Love Island",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/microgaming/love-island.php",
+      "image": {
+        "alt": "Love Island",
+        "path": "/images/gamelogos/slots/love-island.png",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Lucky Koi",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.4",
+        "scale": "5"
+      },
+      "link": "/microgaming/lucky-koi.php",
+      "image": {
+        "alt": "Lucky Koi",
+        "path": "/images/gamelogos/slots/lucky-koi.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Lucky Leprechaun",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.4",
+        "scale": "5"
+      },
+      "link": "/microgaming/lucky-leprechaun.php",
+      "image": {
+        "alt": "Lucky Leprechaun",
+        "path": "/images/gamelogos/slots/lucky-leprechaun.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Mermaids Millions",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.3",
+        "scale": "5"
+      },
+      "link": "/microgaming/mermaids-millions.php",
+      "image": {
+        "alt": "Mermaids Millions",
+        "path": "/images/gamelogos/slots/mermaids-millions.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Playboy",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/microgaming/playboy.php",
+      "image": {
+        "alt": "Playboy",
+        "path": "/images/gamelogos/slots/playboy.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Pure Platinum",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.4",
+        "scale": "5"
+      },
+      "link": "/microgaming/pure-platinum.php",
+      "image": {
+        "alt": "Pure Platinum",
+        "path": "/images/gamelogos/slots/pure-platinum.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Rabbit in The Hat",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/rabbit-in-the-hat.php",
+      "image": {
+        "alt": "Rabbit in The Hat",
+        "path": "/images/gamelogos/slots/rabbit-in-the-hat.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Secret Admirer",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.1",
+        "scale": "5"
+      },
+      "link": "/microgaming/secret-admirer.php",
+      "image": {
+        "alt": "Secret Admirer",
+        "path": "/images/gamelogos/slots/secret-admirer-new.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Secret Romance",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.3",
+        "scale": "5"
+      },
+      "link": "/microgaming/secret-romance.php",
+      "image": {
+        "alt": "Secret Romance",
+        "path": "/images/gamelogos/slots/secret-romance.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Spring Break",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/microgaming/spring-break.php",
+      "image": {
+        "alt": "Spring Break",
+        "path": "/images/gamelogos/slots/spring-break.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Summertime",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3",
+        "scale": "5"
+      },
+      "link": "/microgaming/summertime.php",
+      "image": {
+        "alt": "Summertime",
+        "path": "/images/gamelogos/slots/summertime.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Tally Ho",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/tally-ho.php",
+      "image": {
+        "alt": "Tally Ho",
+        "path": "/images/gamelogos/slots/tally-ho.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Thunderstruck",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "3.3",
+        "scale": "5"
+      },
+      "link": "/microgaming/thunderstruck.php",
+      "image": {
+        "alt": "Thunderstruck",
+        "path": "/images/gamelogos/slots/thunderstruck.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Thunderstruck II",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/thunderstruck2.php",
+      "image": {
+        "alt": "Thunderstruck II",
+        "path": "/images/gamelogos/slots/thunderstruck2.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Tomb Raider 2",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/tomb-raider-2.php",
+      "image": {
+        "alt": "Tomb Raider 2",
+        "path": "/images/gamelogos/slots/tomb-raider-2.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Wheel of Wishes",
+      "subtitle": "Microgaming",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/microgaming/wheel-of-wishes.php",
+      "image": {
+        "alt": "Wheel of Wishes",
+        "path": "/images/new-slot-reviews/wheel-of-wishes/wheel-of-wishes-slot-logo.jpg",
+        "srcset": ""
+      }
+    }
+  ],
+  "egt": [
+    {
+      "title": "Aztec Glory",
+      "subtitle": "EGT",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/egt/aztec-glory.php",
+      "image": {
+        "alt": "Aztec Glory",
+        "path": "/images/gamelogos/slots/aztec-glory.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "20 Super Hot",
+      "subtitle": "EGT",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/egt/20-super-hot.php",
+      "image": {
+        "alt": "20 Super Hot",
+        "path": "/images/gamelogos/slots/20-super-hot.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "40 Super Hot",
+      "subtitle": "EGT",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/egt/40-super-hot.php",
+      "image": {
+        "alt": "40 Super Hot",
+        "path": "/images/gamelogos/slots/40-super-hot.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Burning Hot",
+      "subtitle": "EGT",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/egt/burning-hot.php",
+      "image": {
+        "alt": "Burning Hot",
+        "path": "/images/gamelogos/slots/burning-hot.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Egypt Sky",
+      "subtitle": "EGT",
+      "rating": {
+        "value": "3.5",
+        "scale": "5"
+      },
+      "link": "/egt/egypt-sky.php",
+      "image": {
+        "alt": "Egypt Sky",
+        "path": "/images/gamelogos/slots/egypt-sky.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Flaming Hot",
+      "subtitle": "EGT",
+      "rating": {
+        "value": "3.2",
+        "scale": "5"
+      },
+      "link": "/egt/flaming-hot.php",
+      "image": {
+        "alt": "Flaming Hot",
+        "path": "/images/gamelogos/slots/flaming-hot.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Grace of Cleopatra",
+      "subtitle": "EGT",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/egt/grace-of-cleopatra.php",
+      "image": {
+        "alt": "Grace of Cleopatra",
+        "path": "/images/gamelogos/slots/grace-of-cleopatra.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Rise of Ra",
+      "subtitle": "EGT",
+      "rating": {
+        "value": "4.2",
+        "scale": "5"
+      },
+      "link": "/egt/rise-of-ra.php",
+      "image": {
+        "alt": "Rise of Ra",
+        "path": "/images/gamelogos/slots/rise-of-ra.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Secrets of Alchemy",
+      "subtitle": "EGT",
+      "rating": {
+        "value": "4",
+        "scale": "5"
+      },
+      "link": "/egt/secrets-of-alchemy.php",
+      "image": {
+        "alt": "Secrets of Alchemy",
+        "path": "/images/gamelogos/slots/secrets-of-alchemy.jpg",
+        "srcset": ""
+      }
+    },
+    {
+      "title": "Versailles Gold",
+      "subtitle": "EGT",
+      "rating": {
+        "value": "3.2",
+        "scale": "5"
+      },
+      "link": "/egt/versailles-gold.php",
+      "image": {
+        "alt": "Versailles Gold",
+        "path": "/images/gamelogos/slots/versailles-gold.jpg",
+        "srcset": ""
+      }
+    }
+  ]
+}
